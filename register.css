@@ -1,0 +1,15 @@
+body {
+  background-image: url('https://wallpaperaccess.com/full/340434.png');
+}
+
+nav {
+  height: 12vh;
+  /* background-color: rgb(0, 0, 0,0.4); */
+}
+
+
+.logoName {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: white;
+}

@@ -1,0 +1,40 @@
+body {
+  background-image: url('https://wallpaperaccess.com/full/340434.png');
+}
+
+nav {
+  height: 12vh;
+  backdrop-filter: 5px;
+  /* width: 100vw; */
+}
+
+
+.logoName {
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: white;
+}
+
+.container {
+  margin-top: 5%;
+}
+
+.form-control {
+  height: 2rem;
+}
+
+label {
+  font-size: 0.8rem;
+}
+
+.income {
+  color: green;
+}
+
+.expense {
+  color: red;
+}
+
+#clearAllBox{
+  margin-top : 140px;
+}
