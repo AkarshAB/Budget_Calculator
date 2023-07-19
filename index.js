@@ -17,6 +17,7 @@ function loginAcc() {
     }
   }
   else {
-    alert ('Wrong Credentials')
+    alert ('Username not registered yet')
+    window.location = './register.html'
   }
 }
